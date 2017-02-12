@@ -1,0 +1,23 @@
+{
+  "name": "Andelabs-Session3-BinarySearch-Program",
+  "version": "1.0.0",
+  "description": "A program to implement binary tree search to search through an array for an element",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avuidrauxs/Andelabs-Session3-BinarySearch-Program.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Avuidrauxs/Andelabs-Session3-BinarySearch-Program/issues"
+  },
+  "homepage": "https://github.com/Avuidrauxs/Andelabs-Session3-BinarySearch-Program#readme",
+  "dependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
